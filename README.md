@@ -5,11 +5,9 @@ Yukarda bulunan Spotify Kullanıcı, Sanatçı ve Oynatma listesi takipçi siste
 İster hesap oluşturarak takip attırın, ister oluşturduğunuz hesapların tokeni ile _Tokens.txt içerisine ekleyerek veyada bu program ile oluşturduğunuz tokenleri kullanarak takipçi işlemini yapabilirsiniz.
 Her güncelleme işleminde yazılım açıldığında hata verecektir güncelleme işlemini bu Repodan güncelleyebilirsiniz.
 
-Cowase için sizlere ücretsiz lisans anahtarı vereceğiz.
-```
-cowase
-```
-kodunu kullanarak programa erişebilirsiniz.
+Cowase için sizlere ücretsiz lisans anahtarı vereceğiz. Lisans kodumuz `cowase` şeklinde kullanabilirsiniz bu kod size 1 ay boyunca hesap oluşturmanıza ve takipçi atmanıza yarayacaktır.
+
+Kendinize özel sınırsız lisans istiyorsanız ulaşabilirsiniz.
 
 ![image](https://user-images.githubusercontent.com/77089894/188774117-0b32d55a-66f5-43e2-a40b-e006c840c69f.png)
 ![image](https://user-images.githubusercontent.com/77089894/188774136-79c79c48-b757-48e5-a9a1-c3552d3c034b.png)
