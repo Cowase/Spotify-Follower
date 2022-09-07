@@ -1,14 +1,35 @@
 # Spotify Hizmetleri
-Yukarda bulunan Spotify Kullanıcı, Sanatçı ve Oynatma listesi takipçi sistemidir.
-Ücretsiz bi şekilde paylaşılmıştır fakat şifrelenmiştir isteyen kırıp kullanabilir kırabilirse tabi hiç önemi yoktur.
+Bu projede sizler için ücretsiz sunulan ve ücretsiz özellikleriyle takipçi atmanıza yarayan bir Python tabanlı yazılımdır.
+Spotify üzerinde Oynatma listesi, Kullanıcı ve Sanatçı profillerine takipçi yükseltimi yapmaktadır. Lisansınıza özel hesaplar oluşturarak sizin o hesapları takipçi şeklinde kullanmanıa yaramaktadır.
 
-İster hesap oluşturarak takip attırın, ister oluşturduğunuz hesapların tokeni ile _Tokens.txt içerisine ekleyerek veyada bu program ile oluşturduğunuz tokenleri kullanarak takipçi işlemini yapabilirsiniz.
-Her güncelleme işleminde yazılım açıldığında hata verecektir güncelleme işlemini bu Repodan güncelleyebilirsiniz.
+Ücretsiz bir şekilde kullanmak için bilgisayarınızda **Python 3.9+** Yüklü olması gerekmektedir.
+Daha sonra dizine girerek `cmd` veya da `Powershell` açarak oraya `pip install - r requirements.txt` komutunu girerek öncelikle modülleri kurmanız gerekmektedir. Modüllerde bir sıkıntı olduğunda bildirmekten çekinmeyin.
 
-Cowase için sizlere ücretsiz lisans anahtarı vereceğiz. Lisans kodumuz `cowase` şeklinde kullanabilirsiniz bu kod size 1 ay boyunca hesap oluşturmanıza ve takipçi atmanıza yarayacaktır.
+Daha sonra tekrardan `cmd` veya da `Powershell` konsolunu açarak oraya `python acar.py` komutunu girerek yazılımımızı çalıştırıyoruz. Bu ekranda birazcık sizi bekletecektir çünkü güncelleme kontrolü ve lisans kontrol aracı vardır.
 
-Kendinize özel sınırsız lisans istiyorsanız ulaşabilirsiniz.
+Size özel olan lisans kodumuz: ```cowase```
+Artık kodumuzuda girdiğimize gröe bu yazılımı kullanmak size düşüyor.
 
+Ayrıca özel lisanslarımızda mevcuttur. Özel lisans ne işe yarar ve özellikleri nelerdir?
+
+## Özel Lisans Özellikleri
+
+**Aşağıda verilen özellikler size verilen lisansda bulunmamaktadır.**
+**İletişime geçerek bu lisansa nasıl sahip olacağınızı öğrenebilirsiniz.**
+
+- Dilediğiniz kadar hesap oluşturmanız için Proxy desteği.  
+- Saniye de iki yada ikiden fazla hesap oluşturma. 
+- Özelleştirilmiş isim, resim ve hesap bilgileri ile gerçeğe yakın takipçi.
+- En yeni güncellemeleri alarak en yeni özellikleri kapsayan bir lisanstır.
+- Yakın zaman sonra Dinleyici ve spotify dışında olan İnstagram platformunuda destekleyecek özelliklere sahip olacak.
+- Devamlı özelliğine sahiptir. Bu özellik açık olduğunda lisans kodunuza özel siz yazılımı açana kadar otomatik olarak hesap oluşturmaktadır. Tekrar giriş sağlandığı gibi sizin çıktılarınıza bu hesapları ekleyecektir.
+
+
+# Bazı görseller
+![image](https://user-images.githubusercontent.com/77089894/188782217-87b7e2c8-58b8-4169-8177-e804cf084906.png)
+![image](https://user-images.githubusercontent.com/77089894/188782279-a4a7e932-e2b9-4bfd-911a-ed02035a590b.png)
+![image](https://user-images.githubusercontent.com/77089894/188782380-ef6089c9-12e2-459f-9477-dfdce0bb3209.png)
+![image](https://user-images.githubusercontent.com/77089894/188782434-2f648ac1-fdcd-4ffd-9367-f51fc0afe082.png)
 ![image](https://user-images.githubusercontent.com/77089894/188774117-0b32d55a-66f5-43e2-a40b-e006c840c69f.png)
 ![image](https://user-images.githubusercontent.com/77089894/188774136-79c79c48-b757-48e5-a9a1-c3552d3c034b.png)
 ![image](https://user-images.githubusercontent.com/77089894/188774151-7a199b29-7b29-46d0-8469-f879bd6fe65f.png)
