@@ -26,6 +26,7 @@ Ayrıca özel lisanslarımızda mevcuttur. Özel lisans ne işe yarar ve özelli
 
 
 # Bazı görseller
+![image](https://user-images.githubusercontent.com/77089894/188784146-a32dfa6d-5f02-4da9-9879-d745a38d41f1.png)
 ![image](https://user-images.githubusercontent.com/77089894/188782217-87b7e2c8-58b8-4169-8177-e804cf084906.png)
 ![image](https://user-images.githubusercontent.com/77089894/188782279-a4a7e932-e2b9-4bfd-911a-ed02035a590b.png)
 ![image](https://user-images.githubusercontent.com/77089894/188782380-ef6089c9-12e2-459f-9477-dfdce0bb3209.png)
